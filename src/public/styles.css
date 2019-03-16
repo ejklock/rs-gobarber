@@ -133,7 +133,7 @@ body {
 .main-wrapper .content {
   display: flex;
   flex-direction: column;
-  max-width: 350px;
+  max-width: 600px;
   width: 100%;
   background: #fff;
   border-radius: 4px;
